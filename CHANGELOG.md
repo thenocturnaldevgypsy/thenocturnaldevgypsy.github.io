@@ -19,7 +19,7 @@
 
 ### 🔥 **Changelog under Version 1** 
 
-➡️ Version Live URL: [x.x.x](https://thenocturnaldevgypsy.github.io/)
+➡️ Version Latest Live URL: [0.0.3](https://thenocturnaldevgypsy.github.io/)
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
