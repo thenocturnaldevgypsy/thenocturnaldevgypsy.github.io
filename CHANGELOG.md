@@ -23,6 +23,6 @@
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 0.0.3 | 09.09.2024 | [f49c384](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/commit/f49c384e35ebb578186b76162e5343958a583306) | -- | Created necessary Markdown files for Repo's documentation. Updated README.md, created CHANGELOG.md |
+| 0.0.3 | 09.09.2024 | [e7e94eb](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/commit/e7e94eb4495a1f626ca0f1ec4592b4f89c18a3de) | -- | Created necessary Markdown files for Repo's documentation. Updated README.md, created CHANGELOG.md |
 | 0.0.2 | 01-08.09.2024 | -- | feat | - Created file and directory structure, setup the libary's framework and tools<br>- Published Repo as Github Page (https://thenocturnaldevgypsy.github.io/), created a really simple "Coming Soon" page. |
 | 0.0.1 | 01.09.2024 | [f49c384](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/commit/f49c384e35ebb578186b76162e5343958a583306) | -- | Initial Repo Commit |

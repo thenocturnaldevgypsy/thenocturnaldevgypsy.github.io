@@ -82,7 +82,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 0.0.3 | 09.09.2024 | [f49c384](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/commit/f49c384e35ebb578186b76162e5343958a583306) | -- | Created necessary Markdown files for Repo's documentation. Updated README.md, created CHANGELOG.md |
+| 0.0.3 | 09.09.2024 | [e7e94eb](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/commit/e7e94eb4495a1f626ca0f1ec4592b4f89c18a3de) | -- | Created necessary Markdown files for Repo's documentation. Updated README.md, created CHANGELOG.md |
 
 ## ![SECTION License](https://img.shields.io/badge/📑-License-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white)
 Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
