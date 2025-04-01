@@ -10,7 +10,7 @@ jobs:
       name: Update README
       runs-on: ubuntu-latest
       steps:
-         - uses: anmol098/waka-readme-stats@v4
+         - uses: anmol098/waka-readme-stats@master
            with:
                #Token
                WAKATIME_API_KEY: ${{ secrets.WT_API_KEY }}
