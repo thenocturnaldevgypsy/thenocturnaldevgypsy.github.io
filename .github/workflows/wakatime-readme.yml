@@ -13,13 +13,13 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Setup Node.js (needed for the action)
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
       - name: Update Wakatime stats in README
-        uses: anmol098/waka-readme-stats@v2.3.0
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WT_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
