@@ -28,13 +28,5 @@ If you're just curious of who I am in general, feel free to check my other web p
 
 <img width="240" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" /> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
 
-<!-- <img align="center" width="600" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img valign="top" width="300" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" />
-<img align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/><img align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/><img valign="top" align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
-<img width="315" valign="top" align="center" src="https://gh-rms.vercel.app/api/top-langs/?username=thenocturnaldevgypsy&layout=compact&theme=transparent&hide_border=true&langs_count=10"><img valign="top" align="center" width="500" src="https://gh-rss.vercel.app/?user=thenocturnaldevgypsy&theme=transparent&hide_border=true" alt="GitHub Streak" /> -->
-
-
-
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
