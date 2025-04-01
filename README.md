@@ -36,8 +36,7 @@ If you're just curious of who I am in general, feel free to check my other web p
 
 <img align="center" width="570" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/> <img valign="top" align="center" width="405" src="https://gh-rss.vercel.app/?user=thenocturnaldevgypsy&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
-> [!NOTE]
-> Top languages does not indicate my skill level, it's just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub due to NDAs.
+<br />
 
 <img width="240" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" /> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/> <img align="center" width="240" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
 
