@@ -1,171 +1,57 @@
-<p align="center"><img src="MD_assets/octocat.gif" alt="Logo" width="130" height="130"></p>
-<h3 align="center">Name of Repo Placement</h3>
-<p align="center"><em>Just a quick description of the Repo's purposes. Replace the octocat image above for the Repo Introduction/Banner/Video/Screenshot</em></p>
-<p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Purpose-EDUCATION%20|%20LEARNING%20|%20PLAYGROUND%20|%20EXPLORING%20|%20FREELANCE%20PROJECT%20|%20JOB%20APPLICATION%20|%20ONLINE%20EXAM-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE/FREE-YES/NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
-  <img src="https://img.shields.io/badge/Version-X.X.X-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
-  <img src="https://img.shields.io/badge/Lang-Java%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20PHP-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java|HTML|CSS|JavaScript|PHP">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap">
-  <img src="https://img.shields.io/badge/Database-MySQL-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-MySQL">
-  <img src="https://img.shields.io/badge/Contribute-OPEN/CLOSED/SOON-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN/CLOSED/SOON">
-  <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-  <img src="https://img.shields.io/badge/NDA-YES/NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="NDA-YES/NO">
-  <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
-  <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
-  <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
-</p>
+## <img src="md_assets/logo.png" alt="logo" height="30"/> <img src="MD_assets/octocat-jumping.gif" alt="octocat-jump" height="30"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
 
-## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
+<img align="left" valign="top" src="https://custom-icon-badges.demolab.com/badge/STATUS-%20%23OPENFORWORK%20|%20AVAILABLE-1A1A1A?logo=eye&logoColor=white&labelColor=2471AE&color=1A1A1A" /><br>
 
-`Repo Name` is blah blah blah...
+- :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies).
+- 🧪 : Currently learning more about Generative AI and exploring AI Text to Image Prompts, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) and GitHub Projects ATM.
 
-> [!NOTE]
-> *If there's a need to put some note here*
+## ![SECTION My Tech Stack](https://custom-icon-badges.demolab.com/badge/-My%20Tech%20Stack-2471AE?logo=cpu&logoColor=white&labelColor=2471AE)
 
-![SUBSECTION Project Goals and Features](https://custom-icon-badges.demolab.com/badge/-Project%20Goals%20and%20Features-24292e?logo=star&logoColor=white&labelColor=00416a)
-- Feature 1: A detailed explanation of the feature.
-- Feature 2: What this feature brings to the project.
-- Feature 3: How this enhances the functionality.
+| Domain Knowledge | ![Computer Science](https://custom-icon-badges.demolab.com/badge/-Computer%20Science-00416a?logo=file-binary&logoColor=white&labelColor=00416a) ![Technical Project & Operation Management](https://custom-icon-badges.demolab.com/badge/-Technical%20Project%20&%20Operation%20Management-00416a?logo=project-symlink&logoColor=white&labelColor=00416a) ![Product Management](https://custom-icon-badges.demolab.com/badge/-Product%20Management-00416a?logo=apps&logoColor=white&labelColor=00416a) ![Technical Writing](https://custom-icon-badges.demolab.com/badge/-Technical%20Writing-00416a?logo=checklist&logoColor=white&labelColor=00416a) ![App and Web Development](https://custom-icon-badges.demolab.com/badge/-App%20&%20Web%20Development-00416a?logo=code-square&logoColor=white&labelColor=00416a) ![IT Infrastructure](https://custom-icon-badges.demolab.com/badge/-IT%20Infrastructure-00416a?logo=codespaces&logoColor=white&labelColor=00416a) |
+|------------------|---|
+| Programming, Framework, Tools | ![Windows](https://custom-icon-badges.demolab.com/badge/-Windows-00416a?logo=windows11&logoColor=white&labelColor=00416a) ![macOS](https://img.shields.io/badge/-macOS-00416a?logo=apple&logoColor=white&labelColor=00416a) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-00416a?logo=ubuntu&logoColor=white&labelColor=00416a) ![Dynamics 365](https://custom-icon-badges.demolab.com/badge/-Dynamics%20365-00416a?logo=windows11&logoColor=white&labelColor=00416a) ![Vercel](https://img.shields.io/badge/-Vercel-00416a?logo=vercel&logoColor=white&labelColor=00416a) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-00416a?logo=github&logoColor=white&labelColor=00416a) ![AWS](https://img.shields.io/badge/-AWS-00416a?logo=amazon-web-services&logoColor=white&labelColor=00416a) ![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-00416a?logo=alibaba-cloud&logoColor=white&labelColor=00416a) ![Firefox](https://img.shields.io/badge/-Firefox-00416a?logo=firefox&logoColor=white&labelColor=00416a) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-00416a?logo=vsc&logoColor=white&labelColor=00416a) ![Java](https://img.shields.io/badge/-Java-00416a?logo=openjdk&logoColor=white&labelColor=00416a) ![HTML](https://img.shields.io/badge/-HTML-00416a?logo=html5&logoColor=white&labelColor=00416a) ![CSS](https://img.shields.io/badge/-CSS-00416a?logo=css3&logoColor=white&labelColor=00416a) ![JavaScript](https://img.shields.io/badge/-JavaScript-00416a?logo=JavaScript&logoColor=white&labelColor=00416a) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-00416a?logo=Bootstrap&logoColor=white&labelColor=00416a) ![Chart.js](https://img.shields.io/badge/-Chart.js-00416a?logo=chartdotjs&logoColor=white&labelColor=00416a) ![PHP](https://img.shields.io/badge/-PHP-00416a?logo=php&logoColor=white&labelColor=00416a) ![SQL](https://custom-icon-badges.demolab.com/badge/-SQL-00416a?logo=database&logoColor=white&labelColor=00416a) ![mySQL](https://img.shields.io/badge/-mySQL-00416a?logo=mySQL&logoColor=white&labelColor=00416a) ![Git](https://img.shields.io/badge/-Git-00416a?logo=git&logoColor=white&labelColor=00416a) ![GitHub](https://img.shields.io/badge/-GitHub-00416a?logo=github&logoColor=white&labelColor=00416a) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-00416a?logo=Github-Actions&logoColor=white&labelColor=00416a) |
+| Graphics, Design, AI | ![Canva](https://img.shields.io/badge/-Canva-00416a?logo=Canva&logoColor=white&labelColor=00416a) ![Figma](https://img.shields.io/badge/-Figma-00416a?logo=Figma&logoColor=white&labelColor=00416a) ![Photoshop](https://img.shields.io/badge/-Photoshop-00416a?logo=adobephotoshop&logoColor=white&labelColor=00416a) ![Bing](https://custom-icon-badges.demolab.com/badge/-Microsoft%20Designer-00416a?logo=windows11&logoColor=white&labelColor=00416a) |
+| PM, Writing, AI | ![Jira](https://img.shields.io/badge/-Jira-00416a?logo=jira&logoColor=white&labelColor=00416a) ![Asana](https://img.shields.io/badge/-Asana-00416a?logo=asana&logoColor=white&labelColor=00416a) ![Trello](https://img.shields.io/badge/-Trello-00416a?logo=trello&logoColor=white&labelColor=00416a) ![GitHub Projects](https://custom-icon-badges.demolab.com/badge/-GitHub%20Projects-00416a?logo=pivot-column&logoColor=white&labelColor=00416a) ![Markdown](https://img.shields.io/badge/-Markdown-00416a?logo=markdown&logoColor=white&labelColor=00416a) ![Notion](https://img.shields.io/badge/-Notion-00416a?logo=notion&logoColor=white&labelColor=00416a) ![Confluence](https://img.shields.io/badge/-Confluence-00416a?logo=confluence&logoColor=white&labelColor=00416a) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00416a?logo=openai&logoColor=white&labelColor=00416a) |
 
-![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
+## ![SECTION My Github & Activity Stats](https://custom-icon-badges.demolab.com/badge/-My%20Github%20&%20Activity%20Stats-2471AE?logo=activity&logoSource=feather&logoColor=white&labelColor=2471AE)
 
-- Thru ... 1: https://
-- Thru ... 2: https://
-- Thru ... 3: https://
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
+## ![SECTION Me else(web)where...](https://custom-icon-badges.demolab.com/badge/-Me%20else%28web%29where...-2471AE?logo=rocket&logoColor=white&labelColor=2471AE)
 
-**IDE and OS**
-```
-Version: 
-Commit: 38
-Date: 
-Electron: 
-ElectronBuildId: 
-Chromium: 
-Node.js: 
-V8: 
-OS: 
-```
-**JDK**
-```
-java version 
-Java(TM) SE Runtime Environment 
-Java HotSpot(TM) 64-Bit Server VM 
-```
-**Web Server and Database**
-```
-MAMP by MAMP GmbH
-Version: 5.0.6 (7029)
-x64 binaries release
+If you're just curious of who I am in general, feel free to check my other web presence.
 
-PHP version: 8.3.1
-Database client version: libmysql - mysqlnd 8.3.1 
-phpMyAdmin Version information: 5.1.2
-```
-**Framework and Tools**
-- CSS Framework: 
-- Icons: 
-- Font: 
-- Bootstrap 5.3.3 https://github.com/twbs/bootstrap
+[![Website](https://custom-icon-badges.demolab.com/badge/-www.thenocturnaldevgypsy.work-24292e?logo=globe&logoColor=white&labelColor=00416a)](https://www.thenocturnaldevgypsy.work)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-/in/abegail--torrendon-%2300416a?logo=linkedin-white&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.linkedin.com/in/abegail-torrendon/)
+[![Beacons.ai](https://custom-icon-badges.demolab.com/badge/-beacons.ai/thenocturnaldevgypsy-24292e?logo=ai-model&logoColor=white&labelColor=00416a)](https://beacons.ai/thenocturnaldevgypsy)
+[![GitHub](https://img.shields.io/badge/-/thenocturnaldevgypsy-%2300416a?logo=github&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://github.com/thenocturnaldevgypsy)
+[![Instagram](https://img.shields.io/badge/-/nocturnal.indigo-%2300416a?logo=instagram&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.instagram.com/nocturnal.indigo/)
+[![Mastodon](https://img.shields.io/badge/-/@TheNocturnalDevGypsy-%2300416a?logo=mastodon&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://mastodon.social/@TheNocturnalDevGypsy)
+[![X](https://img.shields.io/badge/-/nocturnalgypsy__-%2300416a?logo=x&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://x.com/nocturnalgypsy_)
+[![Email](https://custom-icon-badges.demolab.com/badge/-hi@thenocturnaldevgypsy.work-24292e?logo=mail&logoColor=white&labelColor=00416a)](mailto:hi@thenocturnaldevgypsy.work)
+[![Upwork](https://img.shields.io/badge/Upwork-/freelancers/~0135fa830786a3f536-%2300416a?logo=upwork&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://www.upwork.com/freelancers/~0135fa830786a3f536?s=1484275220996608000)
+[![Uncut NFTs](https://custom-icon-badges.demolab.com/badge/Uncut%20NFTs%20(WAXp%20&%20Polygon)-/user/4296077072-24292e?logo=file-binary&logoColor=white&labelColor=00416a)](https://uncut.network/user/4296077072)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-/thenocturnaldevgypsy-%2300416a?logo=kofi&logoColor=white&labelColor=%2300416a&color=%2324292e)](https://ko-fi.com/thenocturnaldevgypsy)
 
-**Image Sources Credits**
-- [Source Name - Source]() : `assets/images/image-name.jpg`
-
-## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-2471AE?logo=file-submodule&logoColor=white&labelColor=2471AE)
-
-At the moment, the repository contains the following structure, where:
-```
-project-root/
-├─ assets/             # assets folder for images, css, js and other libraries
-│  ├─ img/             # main directory for storing image files
-│  │  └─ favicons/     # favicons for the app
-│  ├─ css/             # main directory for storing css files
-│  ├─ js/              # main directory for storing js files
-│  └─ vendor/          # main directory for the libraries used from vendors 
-├─ md_assets/          # assets folder for markdown files (documentation)
-├─ .gitignore          # files ignored by Git
-├─ CONTRIBUTING.md     # contribution protocol documentation
-├─ CHANGELOG.md        # project changelog documentation
-├─ README.md           # project documentation
-└─ LICENSE             # license file
-```
-| Description | File/s |
-| ------------- | ------------- |
-| Home Page of the template | `index.html` |
-| Main CSS of the template | `assets/css/main-style.css` |
-| Main JS of the template | `assets/js/main-core.js` |
-
-## ![SECTION Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-2471AE?logo=alert&logoColor=white&labelColor=2471AE)
-blah blah blah...
-
-> [!IMPORTANT]
-> *If there's a need to put some note here*
-
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
-- ✅ Under ...
-- 🚧 Under ...
-
-| Theme | Single/Multi-Page | Description |
-| ------------- | ------------- | ------------- |
-| [xxx](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/) | Single / Multi-page | What was done/What kind |
-
-## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-2471AE?logo=map&logoSource=feather&logoColor=white&labelColor=2471AE)
-```
-Home/                      #
-├─ Page 1.1/               # 
-│  ├─ Page 1.1.1/          # 
-│  │  └─ Page 1.1.1.1/     # 
-│  ├─ Page 1.1.2/          #
-│  ├─ Page 1.1.3/          #
-│  └─ Page 1.1.4/          #
-About Us                   #
-├─ Page 2.1/               # 
-├─ Page 2.2/               # 
-├─ Page 2.3/               # 
-└─ Page 2.4/               # 
-```
-
-## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
-See the [open issues](https://github.com/thenocturnaldevgypsy/REPONAME/issues) and [backlog](https://github.com/thenocturnaldevgypsy/REPONAME/milestones) for the list of proposed features (and known issues).
+## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
+I'd love to hear your thoughts, suggestions and feedbacks (especially if you used or just starred/forked any of my repos!). Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 
-Chronological list of updates and changes to the project.
-
-Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the complete information.
+Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the chronological list of updates and changes of this project.
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| X.X.X | DD.MM.YYYY | [Commit ID](), [I#x]() [PR#x]() | feat/fix/docs/style/refactor/perf/test/build/ci/chore/revert | What was done |
+| 1.0.0 | 01.04.2025 | [I#1](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues/1), [PR#2](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/pulls/2) | refactor, build | - Initial repo creation generated from my repo template (thenocturnaldevgypsy/tndg_template_repo)<br>- Recreated the labels and milestones for this repo since it was not migrated during generation.<br>- Added the needed tokens for the repo for showing my GitHub and WakaTime stats.<br>- Removed the unnecessary MD files, only kept `README.md` and `CHANGELOG.md`<br>- Updated `README.md`'s content. |
 
-## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
-Contributions are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
+See the [open issues](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues) and [backlog](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/milestones) for the list of proposed features (and known issues).
 
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
-If you'd like to use this repo for your own project, I would like to ask a favor from you:
-- Please do `Star` and `Watch` this repo? Or, maybe ❤️ by:
+If you'd like to use https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io for your own project or as a basis, can I ask a favor from you?
+- Can you please do `Star` and `Watch` the repo? Or, maybe ❤️ by:
   
   <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a> <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
-- Click `Fork` at the top of this page.
-- Please be mindful of the [LICENSE](LICENSE.md) applicable
-
-## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
-Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io).
-
-- You can freely modify and reuse.
-- The original [LICENSE](LICENSE.md) must be included with copies of this software.
-- Please link back (if you can fork, the better) to this repo. 
-
-## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
-I'd love to hear your thoughts on this project and get your suggestions and feedbacks (especially if you used it!). You can contact the maintainers in this project's [discussions](https://github.com/thenocturnaldevgypsy/REPONAME/discussions) section.
-- 📣 [Announcements & Updates](https://github.com/thenocturnaldevgypsy/REPONAME/discussions/categories/announcements-updates) : Announcements, updates and roadmaps from maintainers.
-- 📚 [Coding / Development Standards](https://github.com/thenocturnaldevgypsy/REPONAME/discussions/categories/coding-development-standards) : Coding and Development Standards guidelines for the contributors and maintainers.
-- 💡 [Ideas + Community Vote!](https://github.com/thenocturnaldevgypsy/REPONAME/discussions/categories/ideas-community-vote) : Share ideas for new features and let the community vote for it!
-- 🎉 [IN ACTION! Show and Tell!](https://github.com/thenocturnaldevgypsy/REPONAME/discussions/categories/in-action-show-and-tell) : If you have a particularly cool way of using this project/repo, show it off by sharing it here!
-- 💬 [Q & A](https://github.com/thenocturnaldevgypsy/REPONAME/discussions/categories/q-a) :  Ask the maintainers about... anything you want. Ask questions. Receive answers.
-
-Also, feel free to contact me (author) by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
+- You can also `Fork` the said repo! But please be mindful of the [LICENSE](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/blob/master/LICENSE) applicable.
