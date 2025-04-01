@@ -3,7 +3,7 @@ name: Wakatime-Readme
 on:
    workflow_dispatch:
    schedule:
-   - cron: '0 * * * *'   # Runs every hour; adjust as needed
+   - cron: '*/30 * * * *'  # Runs every 30 minutes
 
 jobs:
    update-readme:
