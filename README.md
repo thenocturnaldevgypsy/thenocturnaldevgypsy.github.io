@@ -1,8 +1,8 @@
 ## <img src="MD_assets/logo.png" alt="logo" height="30"/> <img src="MD_assets/octocat-jumping.gif" alt="octocat-jump" height="30"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&letterSpacing=3&duration=6000&pause=3000&vCenter=true&width=490&height=25&lines=Ohayo++%2C+I'm+Abby+(%40TheNocturnalDevGypsy+since+2002))](https://git.io/typing-svg)
 
-And you have stumbled https://thenocturnaldevgypsy.github.io, powered by [GitHub Pages and Action Workflows](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io). This webspace is to show my GitHub Profile/Details and Contribution Stats. You can check the [open issues](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues), [backlog](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/milestones) the [changelog](CHANGELOG.md) for the plans and updates of this project.
+And you have stumbled https://thenocturnaldevgypsy.github.io, one of my projects using [Markdown files, GitHub Pages and Action Workflows](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io). This webspace is to show my GitHub Profile/Details and Contribution Stats. You can check the [open issues](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues), [backlog](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/milestones) the [changelog](CHANGELOG.md) for the plans and updates of this project.
 
-So, I'm...
+So, for the introduction, I'm...
 
 ![STATUS](https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20%7C%20AVAILABLE-ffffff?logo=eye&logoColor=ffffff&labelColor=2471AE&color=ffffff)
 
@@ -35,6 +35,8 @@ If you're just curious of who I am in general, feel free to check my other web p
 ## ![SECTION My Github & Activity Stats](https://custom-icon-badges.demolab.com/badge/-My%20Github%20&%20Activity%20Stats-2471AE?logo=activity&logoSource=feather&logoColor=white&labelColor=2471AE)
 
 <img align="center" width="570" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/> <img valign="top" align="center" width="410" src="https://gh-rss.vercel.app/?user=thenocturnaldevgypsy&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<img valign="top" width="300" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" />
 
 <!-- <img align="center" width="600" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/0-profile-details.svg" alt="TheNocturnalDevGypsy's GitHub Contribution"/><img valign="top" width="300" align="center" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/3-stats.svg" alt="GitHub Streak" />
 <img align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/1-repos-per-language.svg"/><img align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/2-most-commit-language.svg"/><img valign="top" align="center" width="300" src="https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/transparent/4-productive-time.svg"/>
