@@ -1,39 +1,13 @@
-<p align="center"><img src="MD_assets/octocat.gif" alt="Logo" width="130" height="130"></p>
-<h3 align="center">Name of Repo Placement</h3>
-<p align="center"><em>Just a quick description of the Repo's purposes. Replace the octocat image above for the Repo Introduction/Banner/Video/Screenshot</em></p>
-<p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Purpose-EDUCATION%20|%20LEARNING%20|%20PLAYGROUND%20|%20EXPLORING%20|%20FREELANCE%20PROJECT%20|%20JOB%20APPLICATION%20|%20ONLINE%20EXAM-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE/FREE-YES/NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
-  <img src="https://img.shields.io/badge/Version-X.X.X-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
-  <img src="https://img.shields.io/badge/Lang-Java%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20PHP-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java|HTML|CSS|JavaScript|PHP">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap">
-  <img src="https://img.shields.io/badge/Database-MySQL-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-MySQL">
-  <img src="https://img.shields.io/badge/Contribute-OPEN/CLOSED/SOON-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN/CLOSED/SOON">
-  <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-  <img src="https://img.shields.io/badge/NDA-YES/NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="NDA-YES/NO">
-  <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
-  <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
-  <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
-</p>
-
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
-This document contains the complete chronological list of updates and changes to the project
-
-## ![SECTION Changelog under Version 2](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=00416a)
-
-Version Latest Live URL :  https://
-
-| Version | Date | Commit/Issue/PR | Type | Description |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| X.X.X | DD.MM.YYYY | [Commit ID](), [I#x]() [PR#x]() | feat/fix/docs/style/refactor/perf/test/build/ci/chore/revert | What was done |
-| X.X.X | DD.MM.YYYY | [Commit ID](), [I#x]() [PR#x]() | feat/fix/docs/style/refactor/perf/test/build/ci/chore/revert | What was done |
+This document contains the complete chronological list of updates and changes to 
+If you'd like to use https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io
 
 ## ![SECTION Changelog under Version 1](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%201-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
-Version Latest Live URL :  https://
+<img src="https://img.shields.io/badge/Purpose-PLAYGROUND%20|%20EXPLORING%20|%20OPEN%20SOURCE%20PROJECTS-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose - PLAYGROUND | EXPLORING | OPEN SOURCE PROJECTS"> <img src="https://img.shields.io/badge/Version-1.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 1.0.0"> <img src="https://img.shields.io/badge/Setup-Markdown%20|%20GitHub%20Actions-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Setup - Markdown | GitHub Actions"> <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT"> <img src="https://img.shields.io/badge/Last%20Update-01.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 01.04.2025">
+
+Latest Version Live URL :  https://thenocturnaldevgypsy.github.io
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| X.X.X | DD.MM.YYYY | [Commit ID](), [I#x]() [PR#x]() | feat/fix/docs/style/refactor/perf/test/build/ci/chore/revert | What was done |
-| X.X.X | DD.MM.YYYY | [Commit ID](), [I#x]() [PR#x]() | feat/fix/docs/style/refactor/perf/test/build/ci/chore/revert | What was done |
+| 1.0.0 | 01.04.2025 | [I#1](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues/1), [PR#2](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/pulls/2) | refactor, build | - Initial repo creation generated from my repo template (thenocturnaldevgypsy/tndg_template_repo)<br>- Recreated the labels and milestones for this repo since it was not migrated during generation.<br>- Added the needed tokens for the repo for showing my GitHub and WakaTime stats.<br>- Removed the unnecessary MD files, only kept `README.md` and `CHANGELOG.md`<br>- Updated `README.md`'s content. |
