@@ -1,37 +1,48 @@
-
 name: Wakatime-Readme
 
 on:
-   workflow_dispatch:
-   schedule:
-   - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
 
 jobs:
-   update-readme:
-      name: Update README
-      runs-on: ubuntu-latest
-      steps:
-         - uses: anmol098/waka-readme-stats@master
-           with:
-               #Token
-               WAKATIME_API_KEY: ${{ secrets.WT_API_KEY }}
-               GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
 
-               #Configure
-               SYMBOL_VERSION: "3"
-               SHOW_PROJECTS: "False"
-               SHOW_LINES_OF_CODE: "False"
-               SHOW_LOC_CHART: "False"
-               SHOW_OS: "True"
-               SHOW_UPDATED_DATE: "True"
-               UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
-               SHOW_TOTAL_CODE_TIME: "False"
-               SHOW_PROFILE_VIEWS: "False"
-               SHOW_COMMIT: "True"
-               SHOW_DAYS_OF_WEEK: "False"
-               SHOW_LANGUAGE: "False"
-               SHOW_EDITORS: "False"
-               SHOW_LANGUAGE_PER_REPO: "False"
-               SHOW_SHORT_INFO: "False"
-               LOCALE: "en"
-               SHOW_TIMEZONE: "False"
+      - name: Update Wakatime stats in README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # Token
+          WAKATIME_API_KEY: ${{ secrets.WT_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+
+          # Configure
+          SYMBOL_VERSION: "3"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_OS: "True"
+          SHOW_UPDATED_DATE: "True"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          LOCALE: "en"
+          SHOW_TIMEZONE: "False"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with Wakatime stats"
+          git push
