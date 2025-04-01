@@ -6,7 +6,7 @@ So, I'm...
 
 ![STATUS](https://custom-icon-badges.demolab.com/badge/STATUS-%23OPENFORWORK%20%7C%20AVAILABLE-ffffff?logo=eye&logoColor=ffffff&labelColor=2471AE&color=ffffff)
 
-- :octocat: : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies).
+- <img src="MD_assets/octocat.png" alt="logo" height="15"/> : Technical Project & Operation Manager, Product Owner, Technical Writer & Old-school Full-Stack Developer. `on-hiatus` CS/IT Assistant Professor, (I was an Academic Head of School of Computer Studies).
 - 🧪 : Currently learning more about Generative AI and exploring AI Text to Image Prompts, Crypto & NFTs, catching up with front-end & back-end technologies (& some [Code Challenges](https://github.com/thenocturnaldevgypsy/code-review-challenges)) ATM.
 - 💬 : Feel free to contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions. I'd love to hear your thoughts, suggestions and feedbacks (especially if you used or just starred/forked any of my repos!).
 
