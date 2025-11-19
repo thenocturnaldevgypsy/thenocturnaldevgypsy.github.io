@@ -21,6 +21,7 @@ If you'd like to use https://github.com/thenocturnaldevgypsy/thenocturnaldevgyps
 
 Latest Version Live URL :  https://thenocturnaldevgypsy.github.io
 
-| Version | Date | Commit/Issue/PR | Type | Description |
+| Version | Date | Issue/PR/Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1.0.1 | 19.11.2025 | [I#8](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues/8) | chore | - Updated Logo and Typing.svg to match GitHub Profile |
 | 1.0.0 | 01.04.2025 | [I#1](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/issues/1), [PR#2](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/pulls/2), [PR#3](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/pulls/3) | refactor, build | - Initial repo creation generated from my repo template (thenocturnaldevgypsy/tndg_template_repo)<br>- Recreated the labels and milestones for this repo since it was not migrated during generation.<br>- Added the needed tokens for the repo for showing my GitHub and WakaTime stats.<br>- Removed the unnecessary MD files, only kept `README.md` and `CHANGELOG.md`<br>- Updated `README.md`'s content, added the image assets and comments from `GitHub-Profile-Summary-Cards` and `Wakatime-Readme` GH Action workflows. |
