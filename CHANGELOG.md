@@ -1,7 +1,7 @@
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 This document contains the complete chronological list of updates and changes to https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io
 
-![Purpose - PLAYGROUND | EXPLORING | OPEN SOURCE PROJECTS](https://img.shields.io/badge/Purpose-PLAYGROUND%20|%20EXPLORING%20|%20OPEN%20SOURCE%20PROJECTS-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff) ![Version 1.0.2](https://img.shields.io/badge/Version-1.0.2-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff) ![Setup - Markdown | GitHub Actions](https://img.shields.io/badge/Setup-Markdown%20|%20GitHub%20Actions-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff) ![Last Update](https://img.shields.io/badge/Last%20Update-20.11.2025-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff)
+<img src="https://img.shields.io/badge/Repo%20Purpose-PLAYGROUND%20%7C%20EXPLORING%20%7C%20OPEN%20SOURCE%20PROJECTS-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff" alt="Purpose - PLAYGROUND | EXPLORING | OPEN SOURCE PROJECTS"> <img src="https://img.shields.io/badge/Version-1.0.2-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff" alt="Version 1.0.2"> <img src="https://img.shields.io/badge/Setup-Markdown%20%7C%20GitHub%20Actions-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff" alt="Setup - Markdown | GitHub Actions"> <img src="https://img.shields.io/badge/Last%20Update-20.11.2025-ffffff?&logoColor=ffffff&labelColor=00416a&color=ffffff" alt="Last Update">
 
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
