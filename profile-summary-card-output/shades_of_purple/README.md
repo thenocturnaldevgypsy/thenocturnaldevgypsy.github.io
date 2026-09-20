@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/thenocturnaldevgypsy/thenocturnaldevgypsy.github.io/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
